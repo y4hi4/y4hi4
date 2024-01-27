@@ -7,8 +7,7 @@
       <b>
       Greetings, fellow penguin comrades!
       </b>  
-
-     </samp> 
-     </p>
+    </p>
+    </samp>
     
 <p align="right"><strong><samp>」</samp></strong></p>
