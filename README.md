@@ -3,7 +3,7 @@
   <p align="center">
     <samp>
       
-     ### Greetings, fellow penguin comrades!
+  ### Greetings, fellow penguin comrades!
       
     </p>
     </samp>
