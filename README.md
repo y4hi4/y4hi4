@@ -9,4 +9,4 @@
     </samp>
     
 <p align="right"><strong><samp>」</samp></strong></p>
-[img src='https://github.com/y4hi4/y4hi4/blob/main/hello.gif'>]
+<img align = "center" src='https://raw.githubusercontent.com/y4hi4/y4hi4/main/hello.gif'>
