@@ -5,7 +5,7 @@
   <p align="center">
     <samp>
       <b>
-      "Greetings, fellow penguin comrades!"
+      Greetings, fellow penguin comrades!
       </b>    
     </samp>
   </p>
