@@ -6,9 +6,10 @@
     <samp>
       <b>
       Greetings, fellow penguin comrades!
-      </b>   
+      </b>  
+
+     </samp> 
+     </p>
+     
      ![penguin!](https://github.com/y4hi4/y4hi4/blob/main/hello.gif)
-    </samp>
-  
-  </p>
 <p align="right"><strong><samp>」</samp></strong></p>
