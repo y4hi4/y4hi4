@@ -7,7 +7,8 @@
       <b>
       Greetings, fellow penguin comrades!
       </b>   
-      ![](https://github.com/y4hi4/y4hi4/blob/main/hello.gif)
+
     </samp>
+       ![](https://github.com/y4hi4/y4hi4/blob/main/hello.gif)
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
